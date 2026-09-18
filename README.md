@@ -7,6 +7,7 @@ Compatibility
 - Ready or Not 5.3.2
 - DirectX 11 and DirectX 12
 - Intended for offline play and private sessions
+- Steam
 
 Using the loader
 ----------------
