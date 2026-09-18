@@ -21,4 +21,3 @@ Using the loader
 The Nulvex internal module and Dumper-7 are embedded in Nulvex.exe. No loose
 DLL files are required. Settings and logs are stored in %LOCALAPPDATA%\Nulvex.
 
-Rebuild Nulvex after a Ready or Not update before loading it into the game.
